@@ -1,6 +1,6 @@
 ![grape logo](https://github.com/intridea/grape/wiki/grape_logo.png)
 
-## What is Grape?
+## Que es Grape?
 
 Grape is a REST-like API micro-framework for Ruby. It's built to complement
 existing web application frameworks such as Rails and Sinatra by providing a
